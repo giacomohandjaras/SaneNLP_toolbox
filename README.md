@@ -4,12 +4,10 @@
 MATLAB TOOLBOX for NLP by SANE <br>
 #################################################<br>
 
-<i>bigrams_eng.txt</i>: a lists of common (in our internal corpus) english bigrams
-
+<i>bigrams_eng.txt</i>: a lists of common (in our internal corpus) english bigrams <br>
 <i>bigrams_ita.txt</i>: a lists of common (in our internal corpus) italian bigrams
 
-<i>stop_words_large_eng.txt</i>: common stop words in english
-
+<i>stop_words_large_eng.txt</i>: common stop words in english <br>
 <i>stop_words_large_ita.txt</i>: common stop words in italian
 
 
