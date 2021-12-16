@@ -41,7 +41,7 @@ word_found=dictionary(find(word_mask_notempty));
 external_words{w}=word_found;
 word_freq=dictionary_counts(find(word_mask_notempty));
 external_counts(w)=sum(word_freq);
-temp_ranks=find(word_mask);
+temp_ranks=find(word_mask_notempty);
 if(numel(temp_ranks)>0)
 external_ranks(w)=(rank_fixed(temp_ranks(1)));
 end
