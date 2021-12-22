@@ -12,7 +12,7 @@ for l=1:lines
  str=strcat(str,',',string(data{l,c}));
  end
 
- if strlength(str)>1
+ if strlength(str)>0
  fprintf(fid, '%s\n',str);
  end
  
