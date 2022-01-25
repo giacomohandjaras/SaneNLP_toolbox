@@ -41,6 +41,8 @@ MATLAB TOOLBOX for NLP by SANE <br>
 <i>SNLP_benchmark_ita_wordnorms.m</i>: compare external word-embeddings/RDM with the one from the behavioral experiment of Buchanan et al. semantic word-pair norms (2013) in translated in italian by ours <br>
 <i>SNLP_benchmark_ita_wordnorms.mat</i>: the workspace containing raw data from Buchanan et al., 2013, translated in italian by ours
 
+<i>SNLP_benchmark_eng_mturk771.m</i>: compare external word-embeddings/RDM with the one from Halawi et al., 2012 (MTurk-711) dataset (doi:10.1145/2339530.2339751) <br>
+<i>SNLP_benchmark_eng_mturk771.mat</i>: the workspace containing raw data from Halawi et al., 2012 (MTurk-711). Check also performance here: doi:10.1016/j.engappai.2019.07.010
 
 <i>SNLP_convertW2VtoMAT.m</i>: convert txt word2vec embedding matrix in a matlab matrix <br>
 <i>SNLP_getOccurrence_concepts.m</i>: extract frequencies and ranks from a dictionary file, using stemming to aggregate information across words <br>
@@ -51,6 +53,7 @@ MATLAB TOOLBOX for NLP by SANE <br>
 <i>SNLP_getWordVectorsSmoothed.m</i>: return the word embedding vectors from a word2vec matlab matrix, including a smoothing procedure based on stemming <br>
 <i>SNLP_is_short_word.m</i>: if a word is short or not <br>
 <i>SNLP_isStopWord.m</i>: if a word is a stop or not <br>
+<i>SNLP_loadDictionary.m</i>: open a dictionary file from word2vec <br>
 <i>SNLP_loadWords.m</i>: load a list of words from an external txt file <br>
 <i>SNLP_ppmi.m</i>: evaluate from a matrix of occurences the positive pointwise mutual information <br>
 <i>SNLP_removeExtraGarbage.m</i>: remove non-ASCII characters from a string: do not use this function unless you know the risks! <br>
