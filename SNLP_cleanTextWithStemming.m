@@ -1,6 +1,6 @@
 function cleaned=SNLP_cleanTextWithStemming(raw,stemmed_words,language)
 
-cleaned="";
+cleaned=" ";
 words=strsplit(raw,' ');
 words(cellfun(@isempty,words))=[];
 
