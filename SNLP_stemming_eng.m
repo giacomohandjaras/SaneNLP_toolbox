@@ -23,7 +23,7 @@ english_suffix_step4b={ 'sion' , 'tion' };
 english_exceptions={'generate', 'generates', 'generated', 'generating', 'general', 'generally', 'generic', 'generically', 'generous', 'generously', 'skis', 'skies', 'dying', 'lying', 'tying', 'idly', 'gently', 'ugly', 'early', 'only', 'singly', 'bristly', 'burly', 'curly', 'surly', 'inning', 'outing', 'canning', 'herring', 'herrings', 'proceed', 'proceeds', 'exceed', 'exceeds', 'succeed', 'succeeds','arsenal','arsenic', 'news', 'howe', 'atlas', 'cosmos', 'bias', 'andes'};
 english_exceptions_sub={'generat', 'generat', 'generat', 'generat', 'general', 'general', 'generic', 'generic', 'generous', 'generous', 'ski', 'sky', 'die', 'lie', 'tie', 'idl', 'gentl', 'ugli', 'earli', 'onli', 'singli', 'bristli', 'burli', 'curli', 'surli', 'in', 'out', 'can', 'herring', 'herring', 'proceed', 'proceed', 'exceed', 'exceed', 'succeed', 'succeed','arsenal','arsenic', 'news', 'howe', 'atlas', 'cosmos', 'bias', 'andes'};
 
-word_out=word_in;
+word_out=lower(word_in);
 %word_out=SNLP_removePunctuation(word_out);
 %word_out=SNLP_removeSpaces(word_out);
 
@@ -98,7 +98,7 @@ HAS_SHORT_SYL=0;
 LAST_SYL_SHORT=0;
 SHORT_WORD=0;
 
-[R1, R2]=SNLP_get_R1R2(word_out);
+[R1, R2, ~]=SNLP_get_R1R2(word_out,'eng');
 [HAS_SHORT_SYL,LAST_SYL_SHORT,SHORT_WORD]=SNLP_is_short_word(word_out,R1);
 
 if(debug==1); disp(sprintf('R1: %s',R1));end
@@ -289,7 +289,7 @@ end
 %%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%STEP2
 %%%%%%%%%%%%%%%%%%%%%%%%
-[R1, R2]=SNLP_get_R1R2(word_out);
+[R1, R2, ~]=SNLP_get_R1R2(word_out,'eng');
 suffix_size=nan(numel(english_suffix_step2),1);
 for i=1:numel(english_suffix_step2)
 suffix_pos=regexp(R1,strcat(english_suffix_step2{i},'$'));
@@ -461,7 +461,7 @@ end
 %%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%STEP3
 %%%%%%%%%%%%%%%%%%%%%%%%
-[R1, R2]=SNLP_get_R1R2(word_out);
+[R1, R2, ~]=SNLP_get_R1R2(word_out,'eng');
 suffix_size=nan(numel(english_suffix_step3a),1);
 for i=1:numel(english_suffix_step3a)
 suffix_pos=regexp(R1,strcat(english_suffix_step3a{i},'$'));
@@ -513,7 +513,7 @@ end
 end
 
 
-[R1, R2]=SNLP_get_R1R2(word_out);
+[R1, R2, ~]=SNLP_get_R1R2(word_out,'eng');
 suffix_size=nan(numel(english_suffix_step3b),1);
 for i=1:numel(english_suffix_step3b)
 suffix_pos=regexp(R2,strcat(english_suffix_step3b{i},'$'));
@@ -535,7 +535,7 @@ end
 %%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%STEP4
 %%%%%%%%%%%%%%%%%%%%%%%%
-[R1, R2]=SNLP_get_R1R2(word_out);
+[R1, R2, ~]=SNLP_get_R1R2(word_out,'eng');
 suffix_size=nan(numel(english_suffix_step4a),1);
 for i=1:numel(english_suffix_step4a)
 suffix_pos=regexp(R2,strcat(english_suffix_step4a{i},'$'));
@@ -552,7 +552,7 @@ R1=regexprep(R1,strcat(english_suffix_step4a{suffix_size_min_indx},'$'),'');
 R2=regexprep(R2,strcat(english_suffix_step4a{suffix_size_min_indx},'$'),'');
 end
 
-[R1, R2]=SNLP_get_R1R2(word_out);
+[R1, R2, ~]=SNLP_get_R1R2(word_out,'eng');
 suffix_size=nan(numel(english_suffix_step4b),1);
 for i=1:numel(english_suffix_step4b)
 suffix_pos=regexp(R2,strcat(english_suffix_step4b{i},'$'));
@@ -575,7 +575,7 @@ end
 %%%%%%%%%%%%%%%%%%%%%%%%
 %[HAS_SHORT_SYL,LAST_SYL_SHORT,SHORT_WORD]=SNLP_is_short_word(word_out,R1);
 
-[R1, R2]=SNLP_get_R1R2(word_out);
+[R1, R2, ~]=SNLP_get_R1R2(word_out,'eng');
 suffix_pos=regexp(R2,strcat('e','$'));
 if(suffix_pos>0)
 word_out=regexprep(word_out,strcat('e','$'),'');
@@ -591,7 +591,7 @@ end
 end
 
 
-[R1, R2]=SNLP_get_R1R2(word_out);
+[R1, R2, ~]=SNLP_get_R1R2(word_out,'eng');
 suffix_pos=regexp(word_out,strcat('ll','$'));
 if(suffix_pos>0)
 suffix_pos=regexp(R2,strcat('l','$'));

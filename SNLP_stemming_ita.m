@@ -17,7 +17,7 @@ italian_suffix_step1i={'ivo'   'ivi'   'iva'   'ive' 'ativo'   'ativi'   'ativa'
 italian_suffix_step2={'ammo' 'ando' 'ano' 'are' 'arono' 'asse' 'assero' 'assi' 'assimo' 'ata' 'ate' 'ati' 'ato' 'ava' 'avamo' 'avano' 'avate' 'avi' 'avo' 'emmo' 'enda' 'ende' 'endi' 'endo' 'erà' 'erai' 'eranno' 'ere' 'erebbe' 'erebbero' 'erei' 'eremmo' 'eremo' 'ereste' 'eresti' 'erete' 'erò' 'erono' 'essero' 'ete' 'eva' 'evamo' 'evano' 'evate' 'evi' 'evo' 'Yamo' 'iamo' 'immo' 'irà' 'irai' 'iranno' 'ire' 'irebbe' 'irebbero' 'irei' 'iremmo' 'iremo' 'ireste' 'iresti' 'irete' 'irò' 'irono' 'isca' 'iscano' 'isce' 'isci' 'isco' 'iscono' 'issero' 'ita' 'ite' 'iti' 'ito' 'iva' 'ivamo' 'ivano' 'ivate' 'ivi' 'ivo' 'ono' 'uta' 'ute' 'uti' 'uto' 'ar' 'ir'};
 italian_suffix_step3={ 'a' 'e' 'i' 'o' 'à' 'è' 'ì' 'ò', 'ia' 'ie' 'ii' 'io' 'ià' 'iè' 'iì' 'iò'};
 
-word_out=word_in;
+word_out=lower(word_in);
 %word_out=SNLP_removePunctuation(word_out);
 %word_out=SNLP_removeSpaces(word_out);
 

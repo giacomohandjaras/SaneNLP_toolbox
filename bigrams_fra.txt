@@ -1,0 +1,674 @@
+abat-jour	 abatjour
+à-coups	 àcoups
+aide-médecin	 aidemédecin
+aides-soignants	 aidessoignants
+amour-propre	 amourpropre
+amuse-gueules	 amusegueules
+années-lumière	 annéeslumière
+après-demain	 aprèsdemain
+après-guerre	 aprèsguerre
+après-midi	 aprèsmidi
+arc-bouta	 arcbouta
+arc-bouté 	 arcbouté 
+arc-en-ciel	 arcenciel
+arcs-en-ciel	 arcsenciel
+arrache-pied	 arrachepied
+arrière-boutique	 arrièreboutique
+arrière-cour	 arrièrecour
+arrière-cours	 arrièrecours
+arrière-goût	 arrièregoût
+arrière-grand-mère	 arrièregrandmère
+arrière-grand-père	 arrièregrandpère
+arrière-pays	 arrièrepays
+arrière-plan	 arrièreplan
+arrière-train	 arrièretrain
+attaché-case	 attachécase
+au-dehors	 audehors
+au-delà	 audelà
+au-dessous	 audessous
+au-dessus	 audessus
+au-devant	 audevant
+au revoir	 aurevoir
+avant-bras	 avantbras
+avant-coureur	 avantcoureur
+avant-coureurs	 avantcoureurs
+avant-dernière	 avantdernière
+avant-garde	 avantgarde
+avant-goût	 avantgoût
+avant-guerre	 avantguerre
+avant-hier	 avanthier
+avant-poste	 avantposte
+avant-toits	 avanttoits
+avant-veille	 avantveille
+baby-sitter	 babysitter
+bande-son	 bandeson
+bas-côté	 bascôté
+bas-côtés	 bascôtés
+base-ball	 basebal
+bas-fonds	 basfonds
+basket-ball	 basketball
+bas-relief	 basrelief
+bas-reliefs	 basreliefs
+basse-cour	 bassecour
+bas-ventre	 basventre
+bat-flanc	 batflanc
+beau-fils	 beaufils
+beau-frère	 beaufrère
+beau-père	  beaupère
+beaux-arts	 beauxarts
+beaux-frères	 beauxfrères
+beaux-parents	 beauxparents
+bec-de-lièvre	 becdelièvre
+belle-fille	 bellefille
+belle-mère	 bellemère
+belle-sœur	 bellesœur
+belles-sœurs	 bellessœurs
+best-seller	 bestseller
+bien-aimé	 bienaimé
+bien-aimée	 bienaimée
+bien-aimés	 bienaimés
+bien aise	 bienaise
+bien-être	 bienêtre
+bien-fondé	 bienfondé
+bien sûr	 biensûr
+black-out	 blackout
+bloc-notes	 blocnotes
+bon cœur	 boncœur
+bon marché	 bonmarché
+bonne humeur	 bonnehumeur
+bonne santé	 bonnesanté
+bonnes manières	 bonnesmanières
+bonnes raisons	 bonnesraisons
+bonne volonté	 bonnevolonté
+bon sang	 bonsang
+bon sens	 bonsens
+bouche bée	 bouchebée
+bouche ouverte	 boucheouverte
+boui-boui	 bouiboui
+bras-le-corps	 braslecorps
+bric-à-brac	 bricàbrac
+brise-lames	 briselames
+brûle-pourpoint	 brûlepourpoint
+cache-cache	 cachecache
+cache-nez	 cachenez
+cahin-caha	 cahincaha
+camion-citerne	 camionciterne
+carte postale	 cartepostale
+cartes postales	 cartespostales
+carton-pâte	 cartonpâte
+casse-cou	 cassecou
+casse-croûte	 cassecroûte
+casse-pieds	 casse-pied
+casse-tête	 cassetête
+ça va	 çava
+centre commercial	 centrecommercial
+centre-ville	 centreville
+cerfs-volants	 cerfsvolants
+cerf-volant	 cerfvolant
+cessez-le-feu	 cessezlefeu
+chaise longue	 chaiselongue
+champs-élysées	 champsélysées
+chasse-neige	 chasseneige
+chauffe-eau	 chauffeeau
+chauve-souris	 chauvesouris
+chauves-souris	 chauvessouris
+chef-d'œuvre	 chefdœuvre
+chef-lieu	 cheflieu
+chefs-d’œuvre	 chefsdœuvre
+chewing-gum	 chewinggum
+chewing-gums	 chewinggums
+chien-loup	 chienloup
+chou-fleur	 choufleur
+choux-fleurs	 chouxfleurs
+cinquante-cinq	 cinquantecinq
+cinquante-deux 	 cinquantedeux 
+cinquante-huit	 cinquantehuit
+cinquante-neuf	 cinquanteneuf
+cinquante-quatre	 cinquantequatre
+cinquante-sept	 cinquantesept
+cinquante-six	 cinquantesix
+cinquante-trois	 cinquantetrois
+claire-voie	 clairevoie
+clin d’œil	 clindœil
+cloche-pied	 clochepied
+clopin-clopant	 clopinclopant
+coca-cola	 cocacola
+cœur battait	 cœurbattait
+cœur battant	 cœurbattant
+coffre-fort	 coffrefort
+colonne	vertébrale	 colonnevertébrale
+commissaire-priseur	 commissairepriseur
+compte-gouttes	 comptegouttes
+compte-rendu	 compterendu
+contre-attaque	 contreattaque
+contre-courant	 contrecourant
+contre-espionnage	 contreespionnage
+contre-interrogatoire	 contreinterrogatoire
+contre-jour	 contrejour
+contre-pied	 contrepied
+contre-plaqué	 contreplaqué
+contre-révolutionnaire	 contrerévolutionnaire
+contre-révolutionnaires	 contrerévolutionnaires
+corned-beef	 cornedbeef
+corn-flakes	 cornflakes
+coup-de-poing	 coupdepoing
+coup d’œil	 coupdœil
+coupe-papier	 coupepapier
+coupe-vent	 coupevent
+coups d’œil	 coupsdœil
+court-circuit	 courtcircuit
+couvre-chef	 couvrechef
+couvre-feu	 couvrefeu
+couvre-lit	 couvrelit
+couvre-pied	 couvrepied
+couvre-pieds	 couvrepieds
+cow-boy	 cowboy
+cow-boys	 cowboys
+crève-la-faim	 crèvelafaim
+croix-rouge	 croixrouge
+croque-mort	 croquemort
+croque-morts	 croquemorts
+cul-de-sac	 culdesac
+cure-dent	 curedent
+cure-dents	 curedents
+dare-dare	 daredare
+déjà-vu	 déjavu
+demi-bouteille	 demibouteille
+demi-cercle	 demicercle
+demi-couronne	 demicouronne
+demi-douzaine	 demidouzaine
+demi-frère	 demifrère
+demi-frères	 demifrères
+demi-heure	 demiheure
+demi-heures	 demiheures
+demi-jour	 demijour
+demi-journée	 demijournée
+demi-lieue	 demilieue
+demi-litre	 demilitre
+demi-livre	 demilivre
+demi-lune	 demilune
+demi-mètre	 demimètre
+demi-mille	 demimille
+demi-million	 demimillion
+demi-minute	 demiminute
+demi-mot	 demimot
+demi-obscurité	 demiobscurité
+demi-page	 demipage
+demi-seconde	 demiseconde
+demi-siècle	 demisiècle
+demi-sœur	 demisœur
+demi-sommeil	 demisommeil
+demi-sourire	 demisourire
+demi-tour	 demitour
+demi-verre	 demiverre
+demi-voix	 demivoix
+dessus-de-lit	 dessusdelit
+deux-trois	 deuxtrois
+dix-huit	 dixhuit
+dix-huitième	 dixhuitième
+dix-neuf	 dixneuf
+dix-neuvième	 dixneuvième
+dix-sept	 dixsept
+dix-septième	 dixseptième
+dommages-intérêts	 dommagesintérêts
+e-mail	 email
+e-mails	 emails
+en passant	 enpassant
+entre-temps	 entretemps
+essuie-glaces	 essuieglaces
+état-major	 étatmajor
+etats-unis	 étatsunis
+états-unis	 étatsunis
+ex-femme	 exfemme
+ex-mari	 exmari
+face-à-face	 faceàface
+face-à-main	 faceàmain
+fac-similé	 facsimilé
+faire-part	 fairepart
+fast-food	 fastfood
+fast-foods	 fastfoods
+fauteuil roulant	 fauteuilroulant
+faux-fuyants	 fauxfuyants
+faux-semblants	 fauxsemblants
+fend-le-vent	 fendlevent
+fer-blanc	 ferblanc
+fourre-tout	 fourretout
+franc-maçonnerie	 francmaçonnerie
+francs-maçons	 francsmaçons
+free-lance	 freelance
+front-de-bœuf	 frontdebœuf
+frou-frou	 froufrou
+fume-cigarette	 fumecigarette
+gagne-pain	 gagnepain
+garde-boue	 gardeboue
+garde-chasse	 gardechasse
+garde-fou	 gardefou
+garde-malade	 gardemalade
+garde-manger	 gardemanger
+garden-party	 gardenparty
+garde-robe	 garderobe
+gardes-rouges	 gardesrouges
+gardien-chef	 gardienchef
+goutte-à-goutte	 goutteàgoutte
+grain-de-sel	 graindesel
+grand-duc	 grandduc
+grande-bretagne	 grandebretagne
+grand magasin	 grandmagasin
+grand-maman	 grandmaman
+grand-mère	 grandmère
+grand-mères	 grandmères
+grand-oncle	 grandoncle
+grand-papa	 grandpapa
+grand-père	 grandpère
+grand-peur	 grandpeur
+grand-place	 grandplace
+grand-route	 grandroute
+grand-rue	 grandrue
+grands-mères	 grandsmères
+grands-parents	 grandsparents
+grands-pères	 grandspères
+grands-tantes	 grandstantes
+grand-tante	 grandtante
+gratte-ciel	 gratteciel
+gratte-papier	 grattepapier
+grille-pain	 grillepain
+guerre civile	 guerrecivile
+guet-apens	 guetapens
+haut-de-forme	 hautdeforme
+haute voix	 hautevoix
+haut-fourneau	 hautfourneau
+haut-le-cœur	 hautlecœur
+haut-le-corps	 hautlecorps
+haut-parleur	 hautparleur
+haut-parleurs	 hautparleurs
+hauts-fonds	 hautsfonds
+hi-fi	 hifi
+hip-hop	 hiphop
+hong kong	 hongkong
+hong-kong	 hongkong
+hors-bord	 horsbord
+hors d’haleine	 horsdhaleine
+hors-d’œuvre	 horsdœuvre
+hors-la-loi	 horslaloi
+hot-dog	 hotdog
+hot-dogs	 hotdogs
+jésus-christ	 jésuschrist
+juke-box	 jukebox
+là-bas	 làbas
+là-dedans	 làdedans
+là-haut	 làhaut
+laissez-passer	 laissezpasser
+lance-flammes	 lanceflammes
+lance-missiles	 lancemissiles
+lauriers-roses	 lauriersroses
+lave-linge	 lavelinge
+lave-vaisselle	 lavevaisselle
+libre cours	 librecours
+lie-de-vin	 liedevin
+lieutenant-colonel	 lieutenantcolonel
+living-room	 livingroom
+logis-chef	 logischef
+longue-vue	 longuevue
+lord-chancelier	 lordchancelier
+los angeles 	 losangeles
+loup-garou	 loupgarou
+loups-garous	 loupsgarous
+mah-jong	 mahjong
+main-d’œuvre	 maindœuvre
+main droite	 maindroite
+main gauche	 maingauche
+maison-blanche	 maisonblanche
+mal-être	 malêtre
+maréchal-ferrant	 maréchalferrant
+marque-page	 marquepage
+mauvaise humeur	 mauvaisehumeur
+médecin-chef	 médecinchef
+méli-mélo	 mélimélo
+mi-chemin	 michemin
+mi-clos	 miclos
+micro-ondes	 microondes
+mi-distance	 midistance
+milk-shake	 milkshake
+mille-pattes	 millepattes
+mi-temps	 mitemps
+mi-voix	 mivoix
+monte-carlo	 montecarlo
+monte-charge 	 montecharge 
+monte-cristo	 montecristo
+montre-bracelet	 montrebracelet
+mourait d’envie	 mouraitdenvie
+moyen-orient	 moyenorient
+music-hall	 musichall
+new-yorkais	 newyorkais
+new york	 newyork
+new-york	 newyork
+nids-de-poule	 nidsdepoule
+night-club	 nightclub
+non-sens	 nonsens
+non-violence	 nonviolence
+nord-américain	 nordaméricain
+nord-est	 nordest
+nord-ouest	 nordouest
+notre-dame	 notredame
+notre-seigneur	 notreseigneur
+nouveau-mexique	 nouveaumexique
+nouveau-né	 nouveauné
+nouveau-nés	 nouveaunés
+nouvelle-angleterre	 nouvelleangleterre
+nouvelle-galles	 nouvellegalles
+nouvelle-orléans	 nouvelleorléans
+nouvelle-zélande	 nouvellezélande
+nu-pieds	 nupieds
+outre-tombe	 outretombe
+papier peint	 papierpeint
+par-ci	 parci
+par-delà	 pardelà
+par-derrière	 parderrière
+par-dessus	 pardessus
+par-devant	 pardevant
+par-devers	 pardevers
+pare-balles	 pareballes
+pare-brise	 parebrise
+pare-chocs	 parechocs
+passe-montagne	 passemontagne
+passe-partout	 passepartout
+passe-port	 passeport
+passe-temps	 passetemps
+pauvre diable	 pauvrediable
+pays-bas	 paysbas
+peau-rouge	 peaurouge
+peaux-rouges	 peauxrouges
+pêle-mêle	 pêlemêle
+petit-cousin	 petitcousin
+petit déjeuner	 petitdéjeuner
+petit-déjeuner	 petitdéjeuner
+petite-nièce	 petitenièce
+petites-filles	 petitesfilles
+petit-fils	 petitfils
+petits-enfants	 petitsenfants
+pick-up	 pickup
+pied-à-terre	 piedàterre
+pied-de-biche	 pieddebiche
+pince-nez	 pincenez
+ping-pong	 pingpong
+pin-up	 pinup
+pique-nique	 piquenique
+pique-niquer	 piqueniquer
+pique-niques	 piqueniques
+plain-pied	 plainpied
+plat-bord	 platbord
+plate-bande	 platebande
+plate-forme	 plateforme
+plates-bandes	 platesbandes
+plates-formes	 platesformes
+plein air	 pleinair
+poisson-chat	 poissonchat
+pom-pom	 pompom
+pont-levis	 pontlevis
+pop-corn	 popcorn
+porc-épic	 porcépic
+porte-à-porte	 porteàporte
+porte-avions	 porteavions
+porte-bagages	 portebagages
+porte-bonheur	 portebonheur
+porte-clefs	 porteclefs
+porte-clés	 porteclés
+porte-documents	 portedocuments
+porte-fenêtre	 portefenêtre
+porte-jarretelles	 portejarretelles
+porte-monnaie	 portemonnaie
+porte-moustiquaire	 portemoustiquaire
+porte-parole	 porteparole
+porte-plume	 porteplume
+portes-fenêtres	 portesfenêtres
+porte-voix	 portevoix
+portrait-robot	 portraitrobot
+post-it	 postit
+post-scriptum	 postscriptum
+pot-de-vin	 potdevin
+pot-pourri	 potpourri
+pots-de-vin	 potsdevin
+pousse-pousse	 poussepousse
+première guerre	 premièreguerre
+premier ministre	 premierministre
+premier-né	 premierné
+présence d’esprit	 présencedesprit
+presse-papier	 pressepapier
+presse-papiers	 pressepapiers
+pris conscience	 prisconscience
+prit conscience	 pritconscience
+procès-verbal	 procèsverbal
+pull-over	 pullover
+pull-overs	 pullovers
+pur-sang	 pursang
+quarante-cinq	 quarantecinq
+quarante-deux	 quarantedeux
+quarante-huit	 quarantehuit
+quarante-neuf	 quaranteneuf
+quarante-quatre	 quarantequatre
+quarante-sept	 quarantesept
+quarante-six	 quarantesix
+quarante-trois	 quarantetrois
+quartier général	 quartiergénéral
+quartier-maître	 quartiermaître
+quatre-vingt-cinq	 quatrevingtcinq
+quatre-vingt-deux	 quatrevingtdeux
+quatre-vingt-dix-huit	 quatrevingtdixhuit
+quatre-vingt-dix-neuf	 quatrevingtdixneuf
+quatre-vingt-dix	 quatrevingtdix
+quatre-vingt-dix-sept	 quatrevingtdixsept
+quatre-vingt-douze	 quatrevingtdouze
+quatre-vingt-huit	 quatrevingthuit
+quatre-vingt-neuf	 quatrevingtneuf
+quatre-vingt-onze	 quatrevingtonze
+quatre-vingt-quatre	 quatrevingtquatre
+quatre-vingt	 quatrevingt
+quatre-vingt-quinze	 quatrevingtquinze
+quatre-vingt-seize	 quatrevingtseize
+quatre-vingt-sept	 quatrevingtsept
+quatre-vingt-six	 quatrevingtsix
+quatre-vingts	 quatrevingts
+quatre-vingt-treize	 quatrevingttreize
+quatre-vingt-trois	 quatrevingttrois
+quatre-vingt-un	 quatrevingtun
+queue-de-cheval	 queuedecheval
+queue-de-pie	 queuedepie
+rase-mottes	 rasemottes
+raz-de-marée	 razdemarée
+remue-ménage	 remueménage
+rendez-vous	 rendezvous
+réveille-matin	 réveillematin
+rez-de-chaussée	 rezdechaussée
+rocking-chair	 rockingchair
+rocking-chairs	 rockingchairs
+rolls-royce	 rollsroyce
+rond-point	 rondpoint
+rouge-gorge	 rougegorge
+sac-poubelle	 sacpoubelle
+sacré-cœur	 sacrécœur
+sacro-saint	 sacrosaint
+sacs-poubelle	 sacspoubelle
+sage-femme	 sagefemme
+sages-femmes	 sagesfemmes
+saint-antoine	 saintantoine
+saint-aubert	 saintaubert
+saint-clair	 saintclair
+saint-denis	 saintdenis
+saint-domingue	 saintdomingue
+saint-esprit	 saintesprit
+saint-euverte	 sainteuverte
+saint-georges	 saintgeorges
+saint-germain	 saintgermain
+saint-jacques	 saintjacques
+saint-jean	 saintjean
+saint-john	 saintjohn
+saint-joseph	 saintjoseph
+saint-lazare	 saintlazare
+saint-louis	 saintlouis
+saint-loup	 saintloup
+saint-marc	 saintmarc
+saint-martin	 saintmartin
+saint-michel	 saintmichel
+saint-office	 saintoffice
+saint-paul	 saintpaul
+saint-père	 saintpère
+saint-pétersbourg	 saintpétersbourg
+saint-pierre	 saintpierre
+saint-sébastien	 saintsébastien
+saint-valentin	 saintvalentin
+saint-vire	 saintvire
+san francisco	 sanfrancisco
+sang-froid	 sangfroid
+sans-abri	 sansabri
+sans cesse	 sanscesse
+sans doute	 sansdoute
+sans-gêne	 sansgêne
+sans relâche	 sansrelâche
+sauf-conduit	 saufconduit
+savoir-faire	 savoirfaire
+savoir-vivre	 savoirvivre
+science-fiction	 sciencefiction
+seconde guerre	 secondeguerre
+semi-automatique	 semiautomatique
+semi-remorque	 semiremorque
+sergent-chef	 sergentchef
+sergent-major	 sergentmajor
+serre-tête	 serretête
+shangri-la	 shangrila
+side-car	 sidecar
+snack-bar	 snackbar
+social-démocrate	 socialdémocrate
+sociaux-démocrates	 sociauxdémocrates
+soi-disant	 soidisant
+soixante-cinq	 soixantecinq
+soixante-deux	 soixantedeux
+soixante-dix-huit	 soixantedixhuit
+soixante-dix-neuf	 soixantedixneuf
+soixante-dix-sept	 soixantedixsept
+soixante-dix	 soixantedix
+soixante-douze	 soixantedouze
+soixante-huit	 soixantehuit
+soixante-neuf	 soixanteneuf
+soixante-quatorze	 soixantequatorze
+soixante-quatre	 soixantequatre
+soixante-quinze	 soixantequinze
+soixante-seize	 soixanteseize
+soixante-sept	 soixantesept
+soixante-six	 soixantesix
+soixante-treize	 soixantetreize
+soixante-trois	 soixantetrois
+soleil couchant	 soleilcouchant
+souffle coupé	 soufflecoupé
+souffle court	 soufflecourt
+souffre-douleur	 souffredouleur
+sourcils froncés	 sourcilsfroncés
+sourd-muet	 sourdmuet
+sous-bois	 sousbois
+sous-directeur	 sousdirecteur
+sous-entendait	 sousentendait
+sous-entendus	 sousentendus
+sous-estime	 sousestime
+sous-estimé	 sousestimé
+sous-fifre	 sousfifre
+sous-fifres	 sousfifres
+sous-inspecteur	 sousinspecteur
+sous-jacente	 sousjacente
+sous-jacent	 sousjacent
+sous-lieutenant	 souslieutenant
+sous-main	 sousmain
+sous-marine	 sousmarine
+sous-marines	 sousmarines
+sous-marin	 sousmarin
+sous-marins	 sousmarins
+sous-officier	 sousofficier
+sous-officiers	 sousofficiers
+sous-secrétaire	 soussecrétaire
+sous-sol	 soussol
+sous-sols	 soussols
+sous-tendait	 soustendait
+sous-titre	 soustitre
+sous-titres	 soustitres
+sous-vêtement	 sousvêtement
+sous-vêtements	 sousvêtements
+soutien-gorge	 soutiengorge
+station-service	 stationservice
+stations-service	 stationsservice
+strip-tease	 striptease
+stylo-bille	 stylobille
+sud-africaine	 sudafricaine
+sud-africains	 sudafricains
+sud-africain	 sudafricain
+sud-est	 sudest
+sud-ouest	 sudouest
+sur-le-champ	 surlechamp
+sweat-shirt	 sweatshirt
+talkie-walkie	 talkiewalkie
+tam-tam	 tamtam
+tape-à-l’œil	 tapeàlœil
+tee-shirts	 teeshirts
+tee-shirt	 teeshirt
+tel-aviv	 telaviv
+temps-ci	 tempsci
+terre-plein	 terreplein
+tête-à-tête	 têteàtête
+tête baissée	 têtebaissée
+tic-tac	 tictac
+tire-au-flanc	 tireauflanc
+tire-bouchon	 tirebouchon
+tire-d’aile	 tiredaile
+tohu-bohu	 tohubohu
+tombé amoureux	 tombéamoureux
+tombée amoureuse	 tombéeamoureuse
+tord-boyaux	 tordboyaux
+tourne-disque	 tournedisque
+toute-puissance	 toutepuissance
+toute-puissante	 toutepuissante
+train-train	 traintrain
+trench-coat	 trenchcoat
+trente-cinq	 trentecinq
+trente-cinquième	 trentecinquième
+trente-deux	 trentedeux
+trente-huit	 trentehuit
+trente-neuf	 trenteneuf
+trentequatre	 trentequatre
+trente-sept	 trentesept
+trente-sixième	 trentesixième
+trente-six	 trentesix
+trente-troisième	 trentetroisième
+trente-trois	 trentetrois
+trois-mâts	 troismâts
+trompe-l’œil	 trompelœil
+t-shirt	 tshirt
+tue-tête	 tuetête
+va-et-vient	 vaetvient
+vice-préfet	 vicepréfet
+vice-président	 viceprésident
+vice-roi	 viceroi
+vif-argent	 vifargent
+vingt-cinquième	 vingtcinquième
+vingt-cinq	 vingtcinq
+vingt-deuxième	 vingtdeuxième
+vingt-deux	 vingtdeux
+vingt-huit	 vingthuit
+vingt-neuf	 vingtneuf
+vingt-quatre	 vingtquatre
+vingt-sept	 vingtsept
+vingt-six	 vingtsix
+vingt-trois	 vingttrois
+visage pâle	 visagepâle
+vis-à-vis	 visàvis
+voie ferrée	 voieferrée
+voix basse	 voixbasse
+voix douce	 voixdouce
+volte-face	 volteface
+wagon-lit	 wagonlit
+wagon-restaurant	 wagonrestaurant
+week-ends	 weekends
+week-end	 weekend
+yeux baissés	 yeuxbaissés
+yeux brillaient	 yeuxbrillaient
+yeux brillants	 yeuxbrillants
+yeux écarquillés	 yeuxécarquillés
+yeux fixés	 yeuxfixés
+yeux levés	 yeuxlevés
+yeux sombres	 yeuxsombres
