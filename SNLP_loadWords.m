@@ -1,17 +1,30 @@
-function [customStopWords]=SNLP_loadWords(filename);
+function [words]=SNLP_loadWords(filename);
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%Open a set of words of interest from a TXT file
+%%%%
+%%%%Usage:
+%%%%	[words]=SNLP_loadWords(filename)
+%%%%
+%%%%	filename: the UTF-8 TXT file to be loaded. Words could be separated by TAB chars
+%%%%
+%%%%	words: a cell matrix containing the loaded words
+%%%%
+%%%%
+%%%%	Sane Natural Language Processing Toolkit, v0.01. https://github.com/giacomohandjaras/SaneNLP_toolbox
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 small_file=0;
 str = extractFileText(filename,'Encoding', 'UTF-8');
-customStopWords = split(str,newline);
-customStopWords = SNLP_removeShortLines(customStopWords,0);
-if numel(customStopWords)==1
-small_file=1;
+words = split(str,newline);
+words = SNLP_removeShortLines(words,0);
+if numel(words)==1
+    small_file=1;
 end
 
-customStopWords = split(customStopWords,char([9]));
+words = split(words,char([9]));
 
 if small_file==1
-customStopWords=customStopWords';
+    words=words';
 end
 
 end

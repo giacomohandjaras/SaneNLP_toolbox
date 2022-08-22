@@ -54,7 +54,7 @@ bas-ventre	 basventre
 bat-flanc	 batflanc
 beau-fils	 beaufils
 beau-frère	 beaufrère
-beau-père	  beaupère
+beau-père	 beaupère
 beaux-arts	 beauxarts
 beaux-frères	 beauxfrères
 beaux-parents	 beauxparents
@@ -136,7 +136,7 @@ coca-cola	 cocacola
 cœur battait	 cœurbattait
 cœur battant	 cœurbattant
 coffre-fort	 coffrefort
-colonne	vertébrale	 colonnevertébrale
+colonne vertébrale	 colonnevertébrale
 commissaire-priseur	 commissairepriseur
 compte-gouttes	 comptegouttes
 compte-rendu	 compterendu
