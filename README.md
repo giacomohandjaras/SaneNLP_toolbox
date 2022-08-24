@@ -1,7 +1,7 @@
 #################################################<br>
 MATLAB TOOLBOX for NLP by SANE<br>
 #################################################
-###### Developed by Giacomo Handjaras, Giada Lettieri, Erika Bucci, Luca Cecchetti. v0.01, 24 Aug 2022. <br>
+###### Developed by Giacomo Handjaras, Giada Lettieri, Erika Bucci, Luca Cecchetti. v0.01, 24 Aug 2022.
 <br>
 <br>
 #############<br>
@@ -49,7 +49,7 @@ Benchmarking <br>
 <br>
 <br>
 <i>SNLP_benchmark_eng_mturk771.m</i>: compare external word-embeddings/RDM with the one from Halawi et al., 2012 (MTurk-711) dataset (doi:10.1145/2339530.2339751) <br>
-<i>SNLP_benchmark_eng_mturk771.mat</i>: the workspace containing raw data from Halawi et al., 2012 (MTurk-711). Check also performance here: doi:10.1016/j.engappai.2019.07.010
+<i>SNLP_benchmark_eng_mturk771.mat</i>: the workspace containing raw data from Halawi et al., 2012 (MTurk-711). Check also performance here: doi:10.1016/j.engappai.2019.07.010 <br>
 <br>
 <br>
 #############<br>
