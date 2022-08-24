@@ -10,37 +10,38 @@ Benchmarking <br>
 <br>
 <i>SNLP_benchmark_eng_lenci2013.m</i>: compare external word-embeddings/RDM with the one from the behavioral experiment of Lenci et al., 2013 (doi:10.3758/s13428-013-0323-4) <br>
 <i>SNLP_benchmark_eng_lenci2013.mat</i>: the workspace containing raw data from Lenci et al., 2013
-
+<br>
 <i>SNLP_benchmark_eng_mcrae2005.m</i>: compare external word-embeddings/RDM with the one from the behavioral experiment of McRae et al., 2005 (doi:10.3758/BF03192726) <br>
 <i>SNLP_benchmark_eng_mcrae2005.mat</i>: the workspace containing raw data from McRae et al., 2005
-
+<br>
 <i>SNLP_benchmark_eng_men.m</i>: compare external word-embeddings/RDM with the one from the MEN dataset of Bruni & Baroni, 2013 (doi:110.1613/jair.4135) <br>
 <i>SNLP_benchmark_eng_men.mat</i>: the workspace containing raw data from Bruni et al., 2013. Check also performance here: https://aclweb.org/aclwiki/MEN_Test_Collection_(State_of_the_art)
-
+<br>
 <i>SNLP_benchmark_eng_rg65.m</i>: compare external word-embeddings/RDM with the one from Rubenstein & Goodenough (RG-65) dataset (doi:10.1145/365628.365657) <br>
 <i>SNLP_benchmark_eng_rg65.mat</i>: the workspace containing raw data from Rubenstein & Goodenough, 1965. Check also performance here: https://aclweb.org/aclwiki/RG-65_Test_Collection_(State_of_the_art)
-
+<br>
 <i>SNLP_benchmark_eng_simlex999.m</i>: compare external word-embeddings/RDM with the one from SIMLEX-999 of Hill et al., 2014 (doi:10.1162/COLI_a_00237) <br>
 <i>SNLP_benchmark_eng_simlex999.mat</i>: the workspace containing raw data from SIMLEX-999  Check also performance here: https://aclweb.org/aclwiki/SimLex-999_(State_of_the_art)
-
+<br>
 <i>SNLP_benchmark_eng_toefl.m</i>: compare external word-embeddings/RDM with the one from TOEFL Synonym Questions (http://lsa.colorado.edu/) <br>
 <i>SNLP_benchmark_eng_toefl.mat</i>: the workspace containing raw data of the TOEFL Synonym Questions. Check also performance here: https://aclweb.org/aclwiki/TOEFL_Synonym_Questions_(State_of_the_art)
-
+<br>
 <i>SNLP_benchmark_eng_vinson2008.m</i>: compare external word-embeddings/RDM with the one from the behavioral experiment of Vinson & Vigliocco, 2008 (doi:10.3758/BRM.40.1.183) <br>
 <i>SNLP_benchmark_eng_vinson2008.mat</i>: the workspace containing raw data from Vinson & Vigliocco, 2008
-
+<br>
 <i>SNLP_benchmark_eng_wordnorms.m</i>: compare external word-embeddings/RDM with the one from the behavioral experiment of Buchanan et al. semantic word-pair norms (2013) (doi:10.3758/s13428-012-0284-z) <br>
 <i>SNLP_benchmark_eng_wordnorms.mat</i>: the workspace containing raw data from Buchanan et al., 2013.
-
+<br>
 <i>SNLP_benchmark_eng_ws353.m</i>: compare external word-embeddings/RDM with the one from WordSimilarity-353 Test Collection from Finkelstein et al., 2002 (doi:10.1145/371920.372094) <br>
 <i>SNLP_benchmark_eng_ws353.mat</i>: the workspace containing raw data from WordSimilarity-353. Check also performance here: https://aclweb.org/aclwiki/WordSimilarity-353_Test_Collection_(State_of_the_art)
-
+<br>
 <i>SNLP_benchmark_ita_wordnorms.m</i>: compare external word-embeddings/RDM with the one from the behavioral experiment of Buchanan et al. semantic word-pair norms (2013) in translated in italian by ours <br>
 <i>SNLP_benchmark_ita_wordnorms.mat</i>: the workspace containing raw data from Buchanan et al., 2013, translated in italian by ours
-
+<br>
 <i>SNLP_benchmark_eng_mturk771.m</i>: compare external word-embeddings/RDM with the one from Halawi et al., 2012 (MTurk-711) dataset (doi:10.1145/2339530.2339751) <br>
 <i>SNLP_benchmark_eng_mturk771.mat</i>: the workspace containing raw data from Halawi et al., 2012 (MTurk-711). Check also performance here: doi:10.1016/j.engappai.2019.07.010
-
+<br>
+<br>
 #############<br>
 Commands <br>
 #############<br>
@@ -79,17 +80,18 @@ Commands <br>
 <i>SNLP_stemming_fra.m</i>: Snowball version of the French stemmer <br>
 <i>SNLP_stemming_ita.m</i>: Snowball version of the Italian stemmer <br>
 <i>SNLP_tfidf.m</i>: normalize a matrix of occurences using term frequency-inverse document frequency <br>
-
+<br>
 #############<br>
 Additional files<br>
 #############<br>
 <br>
+<br>
 <i>bigrams_eng.txt</i>: a lists of common (in our internal corpus) english bigrams <br>
 <i>bigrams_ita.txt</i>: a lists of common (in our internal corpus) italian bigrams <br>
 <i>bigrams_fra.txt</i>: a lists of common (in our internal corpus) french bigrams <br>
-
+<br>
 <i>diachronic_eng.txt</i>: a list of diachronic words taken from literature <br>
-
+<br>
 <i>stop_words_large_eng.txt</i>: common stop words in english <br>
 <i>stop_words_large_ita.txt</i>: common stop words in italian <br>
 <i>stop_words_large_fra.txt</i>: common stop words in french <br>
