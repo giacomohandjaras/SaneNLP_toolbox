@@ -1,8 +1,7 @@
 #################################################<br>
 MATLAB TOOLBOX for NLP by SANE<br>
-#################################################<br>
-###### Developed by Giacomo Handjaras, Giada Lettieri, Erika Bucci, Luca Cecchetti.
-###### v0.01, 24 Aug 2022.
+#################################################
+###### Developed by Giacomo Handjaras, Giada Lettieri, Erika Bucci, Luca Cecchetti. v0.01, 24 Aug 2022.
 
 
 #############<br>
