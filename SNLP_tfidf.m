@@ -1,6 +1,6 @@
 function normalized_counts=SNLP_tfidf(counts,tf_normalization);
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%Normalize a matrix of occurences using term frequency–inverse document frequency 
+%%%%Normalize a matrix of occurences using term frequency-inverse document frequency 
 %%%% 	tf-idf is a numerical statistic that is intended to reflect how important a word is to a document in a collection or corpus
 %%%% 	see: https://en.wikipedia.org/wiki/Tf–idf
 %%%%
