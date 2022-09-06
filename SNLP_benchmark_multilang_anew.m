@@ -1,6 +1,6 @@
 function [r,rho,acc,RDM_lang1,RDM_lang2,concepts_labels,coverage]=SNLP_benchmark_multilang_anew(corpus_lang1,lang1,corpus_lang2,lang2,smoothing)
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%%%%Compare two word-embeddings from different languages related to a set of words in the ANEW dataset.
+%%%%Compare two word-embeddings from different languages using words in the ANEW dataset.
 %%%%For English:
 %%%%	Bradley, Margaret M., and Peter J. Lang. Affective norms for English words (ANEW): Instruction manual and affective ratings. 
 %%%%	Vol. 30. No. 1. Technical report C-1, the center for research in psychophysiology, University of Florida, (1999).

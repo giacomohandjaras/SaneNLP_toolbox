@@ -44,12 +44,20 @@ Benchmarking <br>
 <i>SNLP_benchmark_eng_ws353.mat</i>: the workspace containing raw data from WordSimilarity-353. Check also performance here: https://aclweb.org/aclwiki/WordSimilarity-353_Test_Collection_(State_of_the_art)
 <br>
 <br>
-<i>SNLP_benchmark_ita_wordnorms.m</i>: compare external word-embeddings/RDM with the one from the behavioral experiment of Buchanan et al. semantic word-pair norms (2013) in translated in italian by ours <br>
-<i>SNLP_benchmark_ita_wordnorms.mat</i>: the workspace containing raw data from Buchanan et al., 2013, translated in italian by ours
+<i>SNLP_benchmark_fra_wordnorms.m</i>: compare external word-embeddings/RDM with the one from the behavioral experiment of Buchanan et al. semantic word-pair norms (2013) in translated in french <br>
+<i>SNLP_benchmark_fra_wordnorms.mat</i>: the workspace containing raw data from Buchanan et al., 2013, translated in french
+<br>
+<br>
+<i>SNLP_benchmark_ita_wordnorms.m</i>: compare external word-embeddings/RDM with the one from the behavioral experiment of Buchanan et al. semantic word-pair norms (2013) in translated in italian <br>
+<i>SNLP_benchmark_ita_wordnorms.mat</i>: the workspace containing raw data from Buchanan et al., 2013, translated in italian
 <br>
 <br>
 <i>SNLP_benchmark_eng_mturk771.m</i>: compare external word-embeddings/RDM with the one from Halawi et al., 2012 (MTurk-711) dataset (doi:10.1145/2339530.2339751) <br>
 <i>SNLP_benchmark_eng_mturk771.mat</i>: the workspace containing raw data from Halawi et al., 2012 (MTurk-711). Check also performance here: doi:10.1016/j.engappai.2019.07.010 <br>
+<br>
+<br>
+<i>SNLP_benchmark_multilang_anew.m</i>: Compare two word-embeddings from different languages (i.e.,'eng', 'fra', 'ita') using words in the ANEW dataset <br>
+<i>SNLP_benchmark_multilang_anew.mat</i>: the workspace containing words from the ANEW dataset in english, and translated in italian, french and spanish
 <br>
 <br>
 #############<br>
