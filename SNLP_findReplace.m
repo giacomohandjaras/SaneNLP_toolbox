@@ -14,10 +14,11 @@ function text_out = SNLP_findReplace(text_in, findandreplace);
 %%%%	Sane Natural Language Processing Toolkit, v0.01. https://github.com/giacomohandjaras/SaneNLP_toolbox
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-cleaned=raw;
+cleaned=text_in;
 
 for i=1:size(findandreplace,1)
     cleaned = regexprep(cleaned,strcat({' '},findandreplace{i,1},{' '}),strcat({' '},findandreplace{i,2},{' '}));
 end
 
+text_out=cleaned;
 end
