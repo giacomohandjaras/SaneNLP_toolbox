@@ -39,9 +39,7 @@ for i=1:num_of_stim
             temp_dist_gauss=2-(cdf('norm',vectors_temp_dist,0,smooth)*2);
             temp_weight=vectors_temp.*temp_dist_gauss';
             wordvectors_out(i,:)=sum(temp_weight,1);
-        end
-        
-        if numel(positions)==1
+        else
             wordvectors_out(i,:)=wordvectors(position_unique(1),:);
         end
         
